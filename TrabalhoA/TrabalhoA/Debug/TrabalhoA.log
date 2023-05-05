@@ -1,0 +1,5 @@
+﻿  SceneManager.cpp
+C:\Users\baixi\Desktop\Uni\CG\CG2023-1-main\CG2023-1-main\TrabalhoA\TrabalhoA\SceneManager.cpp(47,19): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\baixi\Desktop\Uni\CG\CG2023-1-main\CG2023-1-main\TrabalhoA\TrabalhoA\SceneManager.cpp(49,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\baixi\Desktop\Uni\CG\CG2023-1-main\CG2023-1-main\TrabalhoA\TrabalhoA\SceneManager.cpp(81,28): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  TrabalhoA.vcxproj -> C:\Users\baixi\Desktop\Uni\CG\CG2023-1-main\CG2023-1-main\TrabalhoA\Debug\TrabalhoA.exe
